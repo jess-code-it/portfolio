@@ -19,7 +19,7 @@ nav a{
 	color: #FFFFFF !important;
 }
 
-#logo{
+#logo, #logo span{
 	font-family: "Roboto", sans-serif;
 	font-weight: 700;
 	font-style: normal;
@@ -34,8 +34,8 @@ header h1{
 }
 
 header h3{
-	font-size: 34px;
-	font-weight: 350;
+	font-size: 40px;
+	font-weight: 700;
 	line-height: 42px;
 }
 
