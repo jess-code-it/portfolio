@@ -60,7 +60,9 @@ border-radius: 10px;
 }
 
 .side-card{
-	background: #db5605;
+	background: linear-gradient(rgba(255,193,7,0.61), rgba(255,193,7, 0.61)),url(./images/back.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
 }
 #about{
 	background: #262727;
@@ -72,4 +74,9 @@ border-radius: 10px;
 
 .custom-border{
 	color:#262727;
+}
+#contact-image{
+	background: linear-gradient(rgba(255,193,7,0.61), rgba(255,193,7, 0.61)),url(./images/back1.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
 }
